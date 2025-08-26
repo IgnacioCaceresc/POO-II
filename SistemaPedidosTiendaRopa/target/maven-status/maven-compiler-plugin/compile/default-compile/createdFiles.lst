@@ -1,2 +1,12 @@
 com\mycompany\sistemapedidostiendaropa\DiscountManager.class
+com\mycompany\sistemapedidostiendaropa\GestorDePedidos.class
+com\mycompany\sistemapedidostiendaropa\EliminarProductoCommand.class
+com\mycompany\sistemapedidostiendaropa\ProductoBase.class
+com\mycompany\sistemapedidostiendaropa\Component.class
+com\mycompany\sistemapedidostiendaropa\AgregarProductoCommand.class
+com\mycompany\sistemapedidostiendaropa\Command.class
+com\mycompany\sistemapedidostiendaropa\DescuentoFijo.class
+com\mycompany\sistemapedidostiendaropa\CarritoCompras.class
+com\mycompany\sistemapedidostiendaropa\DescuentoDecorator.class
 com\mycompany\sistemapedidostiendaropa\SistemaPedidosTiendaRopa.class
+com\mycompany\sistemapedidostiendaropa\DescuentoPorcentaje.class
